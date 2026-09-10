@@ -1,0 +1,5 @@
+.container { text-align: center; margin-top: 100px; font-family: Arial, sans-serif; }
+#stok { font-size: 24px; font-weight: bold; }
+.tersedia { color: green; }
+.terbatas { color: orange; }
+.habis { color: red; }

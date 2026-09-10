@@ -1,0 +1,5 @@
+.container { text-align: center; margin-top: 100px; font-family: Arial, sans-serif; }
+#hasil { font-size: 24px; font-weight: bold; }
+.diskon-20 { color: purple; }
+.diskon-10 { color: blue; }
+.tidak-diskon { color: gray; }
